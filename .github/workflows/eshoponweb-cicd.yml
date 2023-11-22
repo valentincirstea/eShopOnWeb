@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 615a01d9-ced6-4253-909f-c4959ad05ff7
-  WEBAPP-NAME: az400-webapp-valentincirstea
+  WEBAPP-NAME: az400-webapp-cv
 
 
 jobs:
